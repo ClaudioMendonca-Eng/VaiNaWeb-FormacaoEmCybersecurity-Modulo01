@@ -256,3 +256,6 @@ Este projeto forneceu um diagnóstico completo da rede, destacando pontos fortes
 </p>
 
 ---
+
+
+Copyright © 2025 <a href="https://www.claudiomendonca.eng.br" target="_blank">ClaudioMendonca.eng.br</a>. 
