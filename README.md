@@ -282,7 +282,7 @@ Este projeto forneceu um diagnóstico completo da rede, destacando pontos fortes
 ---
 
 ## 📎 <a name="anexos"></a>Anexos
-**[Espaço reservado para anexos e documentos complementares]**
+Os anexos e documentos complementares relacionados ao projeto estão disponíveis na pasta [doc](/doc/), localizada no diretório do repositório. Essa pasta contém diagramas, relatórios técnicos, inventários e outros materiais de suporte que auxiliam na compreensão e análise do projeto.
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
