@@ -7,7 +7,7 @@
 |:---:|
 | |
 | **<span style="color: blue;">Clique no book para baixar a versão detalhada!</span>** |
-| <a href="/doc/img/ebook_animacao.gif" target="_blank"><img style="margin: 10px" height="700" width="800" src="/doc/img/ebook_animacao_600_390.gif" alt="Ebook"/></a> |
+| <a href="/doc/img/ebook_animacao.gif" target="_blank"><img style="margin: 10px" height="700" width="800" src="https://drive.google.com/file/d/1yT8bNuMP29qpE0YII3ZK26DEOiocUsRK/view" alt="Ebook"/></a> |
 
 TODO: Mudar link para o arquivo 'Modulo01-Fundamentos-Projeto-01.pdf'
 
