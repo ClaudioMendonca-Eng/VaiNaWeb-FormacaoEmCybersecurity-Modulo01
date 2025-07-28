@@ -6,10 +6,9 @@
 | Este projeto foi desenvolvido como parte do **[Módulo 1 da Trilha de Formação em Cybersecurity](https://github.com/Kensei-CyberSec-Lab/formacao-cybersec/tree/main/modulo1-fundamentos/projeto_final_opcao_1)**. Ele simula uma rede corporativa segmentada utilizando Docker, representando uma empresa fictícia com diferentes sub-redes, estações de trabalho, servidores e dispositivos pessoais. O objetivo é realizar o **mapeamento completo dos ativos e sub-redes disponíveis**, identificar máquinas acessíveis, determinar os propósitos das sub-redes e elaborar um inventário técnico detalhado. 🌐 |
 |:---:|
 | |
-| **<span style="color: blue;">Clique no book para baixar a versão detalhada!</span>** |
+| **<a href="https://drive.google.com/file/d/1yT8bNuMP29qpE0YII3ZK26DEOiocUsRK/view" target="_blank"><span style="color: blue;">Clique no book para baixar a versão detalhada!</span>** |
 | <a href="https://drive.google.com/file/d/1yT8bNuMP29qpE0YII3ZK26DEOiocUsRK/view" target="_blank"><img style="margin: 10px" height="700" width="800" src="/doc/img/ebook_animacao_600_390.gif" alt="Ebook"/></a> |
 
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Abrir em nova aba</a>
 
 TODO: Mudar link para o arquivo 'Modulo01-Fundamentos-Projeto-01.pdf'
 
