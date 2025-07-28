@@ -3,8 +3,8 @@
 ## 🛠️ Descrição do Projeto
 Este projeto foi desenvolvido como parte do **Módulo 1 da Trilha de Formação em Cybersecurity**. Ele simula uma rede corporativa segmentada utilizando Docker, representando uma empresa fictícia com diferentes sub-redes, estações de trabalho, servidores e dispositivos pessoais. O objetivo é realizar o **mapeamento completo dos ativos e sub-redes disponíveis**, identificar máquinas acessíveis, determinar os propósitos das sub-redes e elaborar um inventário técnico detalhado. 🌐
 
-| ![EBOOK]([/doc/img/ebook_animacao.gif](/doc/img/ebook_animacao.gif)) |
-| <a href="/doc/img/ebook_animacao.gif" target="_blank"><img style="margin: 10px" height="300" width="200" src="/doc/img/ebook_animacao.300_200.gif" alt="Ebook"/></a> |
+
+| <a href="/doc/img/ebook_animacao.gif" target="_blank"><img style="margin: 10px" height="600" width="390" src="/doc/img/ebook_animacao_600_390.gif" alt="Ebook"/></a> |
 |:---:|
 | |
 
