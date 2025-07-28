@@ -265,10 +265,10 @@ Este projeto forneceu um diagnóstico completo da rede, destacando pontos fortes
 2. [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/).
 3. [MITRE ATT&CK Framework](https://attack.mitre.org/).
 
-### Recursos de Inteligência Artificial:
-1. [ChatGPT](https://openai.com/chatgpt) - Desenvolvido pela OpenAI, o ChatGPT é um modelo de linguagem avançado que utiliza inteligência artificial para gerar respostas naturais e contextuais em diversas aplicações.
-2. [GeminiAI](https://www.deepmind.com) - Criado pelo Google DeepMind, o GeminiAI combina capacidades de linguagem e raciocínio avançado para oferecer soluções em inteligência artificial.
-3. [GitHub Copilot](https://github.com/features/copilot) - Desenvolvido pela GitHub em parceria com a OpenAI, o Copilot é uma ferramenta de IA que auxilia programadores ao sugerir códigos e soluções diretamente no editor.
+### Recursos de Ferramentas de Consulta:
+1. [ChatGPT](https://openai.com/chatgpt) - Desenvolvido pela OpenAI, o ChatGPT foi utilizado para consultas rápidas e esclarecimento de dúvidas técnicas, auxiliando na compreensão de conceitos e na elaboração de estratégias para o projeto.
+2. [GeminiAI](https://www.deepmind.com) - Criado pelo Google DeepMind, o GeminiAI foi empregado para consultas avançadas e suporte em análises complexas, contribuindo para a tomada de decisões no desenvolvimento do projeto.
+3. [GitHub Copilot](https://github.com/features/copilot) - Desenvolvido pela GitHub em parceria com a OpenAI, o Copilot foi utilizado para sugerir trechos de código e soluções práticas, otimizando o tempo de desenvolvimento e garantindo maior eficiência no projeto.
 
 ### Materiais Adicionais:
 1. [Material do curso Formação Cibersec](https://escolavainaweb-com.gitbook.io/formacao-cibersec).
