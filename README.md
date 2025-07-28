@@ -147,6 +147,9 @@ Um inventário técnico foi elaborado, contendo informações detalhadas sobre:
 ## 🖼️ <a name="diagrama"></a>Diagrama
 **[Espaço reservado para o diagrama da rede]**
 
+| <a href="/doc/img/diagrama_rede_empresa.png" target="_blank"><img style="margin: 0px" height="700" width="400" src="/doc/img/diagrama_rede_empresa.png" alt="Ebook"/></a> |
+|:---:|
+
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
