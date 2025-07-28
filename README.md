@@ -149,7 +149,8 @@ Um inventário técnico foi elaborado, contendo informações detalhadas sobre:
 ---
 
 ## 🖼️ <a name="diagrama"></a>Diagrama
-**[Espaço reservado para o diagrama da rede]**
+
+O diagrama de rede desenvolvido para este projeto oferece uma representação visual clara da infraestrutura, destacando a organização dos dispositivos, sub-redes e conexões entre eles. Ele facilita a compreensão da topologia da rede, permitindo identificar pontos críticos, serviços ativos e fluxos de comunicação. Além de servir como uma ferramenta essencial para análise e planejamento, o diagrama também auxilia na identificação de possíveis vulnerabilidades e na implementação de melhorias, garantindo maior eficiência e segurança na gestão da infraestrutura.
 
 | <a href="/doc/img/diagrama_rede_empresa.png" target="_blank"><img style="margin: 0px" height="900" width="800" src="/doc/img/diagrama_rede_empresa.png" alt="Ebook"/></a> |
 |:---:|
@@ -242,7 +243,37 @@ Este projeto forneceu um diagnóstico completo da rede, destacando pontos fortes
 ---
 
 ## 📚 <a name="referencias-bibliograficas"></a>Referências Bibliográficas
-**[Espaço reservado para as referências bibliográficas]**
+
+### Ferramentas e Documentação Técnica:
+1. [Nmap Documentation](https://nmap.org/book/).
+2. [Wireshark User Guide](https://www.wireshark.org/docs/).
+3. [Zabbix Documentation](https://www.zabbix.com/documentation).
+4. [OpenVAS Documentation](https://www.openvas.org/documentation.html).
+5. [Nessus Documentation](https://docs.tenable.com/nessus/).
+6. [Prometheus Documentation](https://prometheus.io/docs/).
+7. [ELK Stack Documentation](https://www.elastic.co/guide/index.html).
+8. [Splunk Documentation](https://docs.splunk.com/).
+
+### Normas e Regulamentações:
+1. [ISO/IEC 27001:2013 - Information Security Management Systems](https://www.iso.org/standard/54534.html).
+2. [GDPR - General Data Protection Regulation](https://gdpr-info.eu/).
+3. [LGPD - Lei Geral de Proteção de Dados (Brasil)](https://www.gov.br/lgpd).
+4. [PCI DSS - Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/).
+
+### Recursos Educacionais e Tutoriais:
+1. [OWASP Foundation](https://owasp.org/).
+2. [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/).
+3. [MITRE ATT&CK Framework](https://attack.mitre.org/).
+
+### Recursos de Inteligência Artificial:
+1. [ChatGPT](https://openai.com/chatgpt) - Desenvolvido pela OpenAI, o ChatGPT é um modelo de linguagem avançado que utiliza inteligência artificial para gerar respostas naturais e contextuais em diversas aplicações.
+2. [GeminiAI](https://www.deepmind.com) - Criado pelo Google DeepMind, o GeminiAI combina capacidades de linguagem e raciocínio avançado para oferecer soluções em inteligência artificial.
+3. [GitHub Copilot](https://github.com/features/copilot) - Desenvolvido pela GitHub em parceria com a OpenAI, o Copilot é uma ferramenta de IA que auxilia programadores ao sugerir códigos e soluções diretamente no editor.
+
+### Materiais Adicionais:
+1. [Material do curso Formação Cibersec](https://escolavainaweb-com.gitbook.io/formacao-cibersec).
+2. [Documentação do projeto final](https://drive.google.com/file/d/1yT8bNuMP29qpE0YII3ZK26DEOiocUsRK/view).
+3. [Repositório do projeto final módulo 01](https://github.com/Kensei-CyberSec-Lab/formacao-cybersec/tree/main/modulo1-fundamentos/projeto_final_opcao_1).
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
