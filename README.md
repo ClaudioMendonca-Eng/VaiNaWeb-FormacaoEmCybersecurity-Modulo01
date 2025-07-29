@@ -9,7 +9,18 @@
 | **<a href="https://drive.google.com/file/d/1yT8bNuMP29qpE0YII3ZK26DEOiocUsRK/view" target="_blank"><span style="color: blue;">Clique no book para baixar a versão detalhada!</span>** |
 | <a href="https://drive.google.com/file/d/1yT8bNuMP29qpE0YII3ZK26DEOiocUsRK/view" target="_blank"><img style="margin: 10px" height="700" width="800" src="/doc/img/ebook_animacao_600_390.gif" alt="Ebook"/></a> |
 
+# Formação em Cybersecurity - Módulo 1 🚀
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![Cybersegurança](https://img.shields.io/badge/Cybersegurança-Seguro-brightgreen)
+![Nmap](https://img.shields.io/badge/Nmap-0078D7?logo=nmap&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?logo=zabbix&logoColor=white)
+![Rustscan](https://img.shields.io/badge/Rustscan-F74C00?logo=rust&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
 TODO: Mudar link para o arquivo 'Modulo01-Fundamentos-Projeto-01.pdf'
 
 ---
