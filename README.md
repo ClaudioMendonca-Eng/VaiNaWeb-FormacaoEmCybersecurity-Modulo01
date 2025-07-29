@@ -134,7 +134,7 @@ Utilizou-se **Nmap** para realizar ping scans e identificar hosts ativos em cada
 ---
 
 ## 🛡️ <a name="extras-uteis"></a>Extras Úteis
-Ferramentas como `arp` e `netdiscover` foram utilizadas para mapear endereços IP e dispositivos na rede, complementando a análise. 🖧
+Foi utilizado a ferramenta `arp` para mapear endereços IP e dispositivos na rede. 🖧
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
