@@ -283,6 +283,25 @@ Este projeto forneceu um diagnóstico completo da rede, destacando pontos fortes
 ## 📎 <a name="anexos"></a>Anexos
 Os anexos e documentos complementares relacionados ao projeto estão disponíveis na pasta [doc](/doc/), localizada no diretório do repositório. Essa pasta contém diagramas, relatórios técnicos, inventários e outros materiais de suporte que auxiliam na compreensão e análise do projeto.
 
+- [ANOTACAO-ULTIMO-SCAN.TXT](/doc/ANOTACAO-ULTIMO-SCAN.TXT)
+- [corp_net_ips.txt](/doc/corp_net/corp_net_ips.txt)
+- [corp_net_ips_hosts.txt](/doc/corp_net/corp_net_ips_hosts.txt)
+- [corp_net_ips_ports.txt](/doc/corp_net/corp_net_ips_ports.txt)
+- [guest_net_ips.txt](/doc/guest_net/guest_net_ips.txt)
+- [guest_net_ips_hosts.txt](/doc/guest_net/guest_net_ips_hosts.txt)
+- [guest_net_ips_ports.txt](/doc/guest_net/guest_net_ips_ports.txt)
+- [infra_net_ips.txt](/doc/infra_net/infra_net_ips.txt)
+- [infra_net_ips_hosts.txt](/doc/infra_net/infra_net_ips_hosts.txt)
+- [infra_net_ips_ports.txt](/doc/infra_net/infra_net_ips_ports.txt)
+- [infra_net_servico_ftp-anon.txt](/doc/infra_net/infra_net_servico_ftp-anon.txt)
+- [infra_net_servico_ldap-rootdse.txt](/doc/infra_net/infra_net_servico_ldap-rootdse.txt)
+- [infra_net_servico_mysql-info.txt](/doc/infra_net/infra_net_servico_mysql-info.txt)
+- [infra_net_servico_smb.txt](/doc/infra_net/infra_net_servico_smb.txt)
+- [infra_net_servico_webserver.txt](/doc/infra_net/infra_net_servico_webserver.txt)
+- [infra_net_servico_zabbix.txt](/doc/infra_net/infra_net_servico_zabbix.txt)
+- [recon_ip_maps.txt](/doc/recon_ip_maps.txt)
+- [user_processo_smb.txt](/doc/user_processo_smb.txt)
+
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
 </p>
