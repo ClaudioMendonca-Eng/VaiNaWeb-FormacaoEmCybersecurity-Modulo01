@@ -35,7 +35,7 @@ TODO: Mudar link para o arquivo 'Modulo01-Fundamentos-Projeto-01.pdf'
    - [Etapas do Reconhecimento das Redes](#etapas-do-reconhecimento-das-redes)
    - [Descoberta de Hosts](#descoberta-de-hosts)
    - [Scan de Portas](#scan-de-portas)
-   - [Extras Úteis](#extras-úteis)
+   - [Extras Úteis](#extras-uteis)
    - [Organização dos Resultados](#organizacao-dos-resultados)
    - [Inventário Final - Tabela Descritiva](#inventario-final---tabela-descritiva)
    - [Diagrama](#diagrama)
@@ -196,6 +196,18 @@ As recomendações incluem medidas para:
 
 ## 🔒 <a name="seguranca"></a>Segurança
 Configuração de serviços expostos, restrição de acessos, proteção contra ataques e implementação de sistemas de prevenção/detecção de intrusão (**IPS/IDS**). 🛡️
+
+<p align="right">
+  <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
+</p>
+
+---
+## 📡 <a name="monitoramento"></a>Monitoramento
+Implementação de ferramentas de monitoramento contínuo, como **Zabbix** e **Prometheus**, para garantir a visibilidade em tempo real da infraestrutura. As ações incluem:
+- Configuração de alertas para eventos críticos.
+- Monitoramento de desempenho de servidores e dispositivos.
+- Análise de logs para detecção de anomalias.
+- Criação de dashboards personalizados para acompanhamento de métricas-chave. 📊
 
 <p align="right">
   <a href="#topo" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">Voltar ao Topo</a>
