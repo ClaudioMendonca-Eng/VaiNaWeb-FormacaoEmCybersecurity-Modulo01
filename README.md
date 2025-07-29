@@ -8,14 +8,8 @@
 | |
 | **<a href="/doc/Desafio_Modulo_01-Fundamentos-Projeto_01.pdf" target="_blank"><span style="color: blue;">Clique no book para baixar a versão detalhada!</span>** |
 | <a href="/doc/Desafio_Modulo_01-Fundamentos-Projeto_01.pdf" target="_blank"><img style="margin: 10px" height="700" width="800" src="/doc/img/ebook_animacao_600_390.gif" alt="Ebook"/></a> |
-|  <div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://kensei.seg.br/lab" target="_blank">
-    <img style="margin: 10px;" height="100" width="200" src="/doc/img/logo_kensei.png" alt="Logo Kensei"/>
-  </a>
-  <a href="https://vainaweb.com.br/" target="_blank">
-    <img style="margin: 10px;" height="100" width="100" src="/doc/img/logo_vnw.png" alt="Logo Vai na Web"/>
-  </a>
-</div> |
+|  <a href="https://kensei.seg.br/lab" target="_blank"><img style="margin: 10px" height="100" width="200" src="/doc/img/logo_kensei.png" alt="Logos Kensei e Vai na Web"/></a> |
+
 
 > [!NOTE]
 > **CURSO FORMAÇÃO CIBERSEC**
