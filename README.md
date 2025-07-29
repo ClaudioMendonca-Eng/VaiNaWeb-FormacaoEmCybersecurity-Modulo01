@@ -9,6 +9,13 @@
 | **<a href="/doc/Desafio_Modulo_01-Fundamentos-Projeto_01.pdf" target="_blank"><span style="color: blue;">Clique no book para baixar a versão detalhada!</span>** |
 | <a href="https://drive.google.com/file/d/1yT8bNuMP29qpE0YII3ZK26DEOiocUsRK/view" target="_blank"><img style="margin: 10px" height="700" width="800" src="/doc/img/ebook_animacao_600_390.gif" alt="Ebook"/></a> |
 
+> [!NOTE]
+> **CURSO FORMAÇÃO CIBERSEC**
+> 
+> ***Autor:*** Claudio Mendonça - ***Data:*** 18/07/2025 - ***Versão:*** 1.0
+>
+> **Mestre:** [Jose Menezes](https://github.com/jcarlos78) - **Instrutores:** [Gilson Andrade](https://github.com/GilsonJunio) / [João Pedro Belo](https://github.com/silvajpedro)
+ 
 # Formação em Cybersecurity - Módulo 1 🚀
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
