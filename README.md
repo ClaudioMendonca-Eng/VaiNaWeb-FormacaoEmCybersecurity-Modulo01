@@ -304,6 +304,7 @@ Este projeto forneceu um diagnóstico completo da rede, destacando pontos fortes
 1. [ChatGPT](https://openai.com/chatgpt) - Desenvolvido pela OpenAI, o ChatGPT foi utilizado para consultas rápidas e esclarecimento de dúvidas técnicas, auxiliando na compreensão de conceitos e na elaboração de estratégias para o projeto.
 2. [GeminiAI](https://www.deepmind.com) - Criado pelo Google DeepMind, o GeminiAI foi empregado para consultas avançadas e suporte em análises complexas, contribuindo para a tomada de decisões no desenvolvimento do projeto.
 3. [GitHub Copilot](https://github.com/features/copilot) - Desenvolvido pela GitHub em parceria com a OpenAI, o Copilot foi utilizado para sugerir trechos de código e soluções práticas, otimizando o tempo de desenvolvimento e garantindo maior eficiência no projeto.
+4. [NotebookLM] - AI-powered notebook para consultas e análises em tempo real, onde foi feito o áudio desse repositório.
 
 ### Materiais Adicionais:
 1. [Material do curso Formação Cibersec](https://escolavainaweb-com.gitbook.io/formacao-cibersec).
