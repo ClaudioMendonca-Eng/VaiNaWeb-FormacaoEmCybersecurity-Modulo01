@@ -30,6 +30,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
+🎙️ <strong>Apresentação em Áudio do Laboratório WAF</strong>
+
+https://github.com/user-attachments/assets/2ba1a4c5-5026-4826-9ece-65f0a601cc58
+
 ---
 
 ## 📖 Sumário
